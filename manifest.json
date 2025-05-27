@@ -1,11 +1,11 @@
 {
-    "name": "",
-    "short_name": "",
-    "description": "",
-    "start_url": "",
-    "display": "",
-    "background_color": "",
-    "theme_color": "",
+    "name": "Lab8_Starter",
+    "short_name": "Victoria Tran",
+    "description": "progressive web app",
+    "start_url": "/",
+    "display": "fullscreen",
+    "background_color": "green",
+    "theme_color": "#ADEBB3",
     "icons": [
       {
         "src": "/assets/images/icons/icon-192x192.png",
