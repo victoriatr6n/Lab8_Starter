@@ -2,7 +2,7 @@
     "name": "Lab8_Starter",
     "short_name": "Victoria Tran",
     "description": "progressive web app",
-    "start_url": "/",
+    "start_url": "/index.html",
     "display": "fullscreen",
     "background_color": "green",
     "theme_color": "#ADEBB3",
